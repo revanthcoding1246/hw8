@@ -1,2 +1,1 @@
-# hw8
-gsdgdsg
+# Project Template 26
